@@ -7,7 +7,7 @@ package Controlador;
 
 import Vista.*;
 //hhhhhhhhhh
-//ooooooo
+//fffffff
 public class Controlador extends javax.swing.JFrame {
 
    private ListadoCliente listado;
