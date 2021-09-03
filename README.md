@@ -1,2 +1,2 @@
 # proyecto-DS1
-proyecto desarollo de sofware 1
+proyecto desarollo de software 1
